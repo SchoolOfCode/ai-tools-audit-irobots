@@ -4,8 +4,8 @@
 
 Name: TechForge Industries
 
-Overview: a dynamic technology company specializing in developing and enhancing social media platforms.
-Focused on creating a seamless and engaging user experience, TechForge is exploring the integration of artificial intelligence to elevate user interaction, content delivery, and overall platform performance.
+Overview: a dynamic technology company specializing in developing and enhancing social media platform that exists to be a tech-reddit learning resource.
+Focused on creating a seamless and engaging user experience, TechForge is exploring the integration of artificial intelligence to elevate user interaction, content delivery, and overall platform performance. TechForge is a small platform looking to expand its online presence.
 
 Current Challenges:
 - User Engagement: Increasing user engagement and time spent on the platform.
@@ -17,3 +17,11 @@ Current Challenges:
 ## AI Tools to look at
 
 - Child protective AI tool - moderation of inappropriate videos, etc.
+- Analytical AI tool that records what people like watching/reading, and suggesting more of it.
+
+
+- ChatGPT?
+- Data privacy/security AI tools?
+
+- Competitor to Hootsuite
+- Hootsuite - management tool that brings scheduling, content creation, analytics, and social listening to one place.

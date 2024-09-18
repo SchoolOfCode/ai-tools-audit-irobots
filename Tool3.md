@@ -1,10 +1,19 @@
-Type of AI Tool: ABC
+Type of AI Tool: ?
+
+Description:
+
+Useful features:
+
+
 
 A. Opportunity
 
 Example Questions to Answer:
  • What problems does this tool solve?
+
  • How can it improve current processes?
+
+-----------
 
 B. Risk
 
@@ -12,12 +21,17 @@ Example Questions to Answer:
  • What are the potential downsides?
  • Are there security or compliance concerns?
 
+-----------
+
+
 C. Tangible Benefit
 
 Example Metrics to Consider:
  • Cost savings.
  • Time efficiency.
  • Productivity gains.
+
+-----------
 
 D. Evaluation
 
