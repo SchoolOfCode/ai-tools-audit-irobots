@@ -24,4 +24,11 @@ Current Challenges:
 - Data privacy/security AI tools?
 
 - Competitor to Hootsuite
-- Hootsuite - management tool that brings scheduling, content creation, analytics, and social listening to one place.
+
+- Hootsuite - management tool that brings scheduling, content creation, analytics, and social listening to one place. 
+
+Key Comparison to Hootsuite:
+
+Buffer is simpler and more affordable but lacks some advanced features like social listening and more complex analytics.
+
+Hootsuite is more feature-rich but can be more complex and expensive, making it better suited for larger teams or more complex social media strategies.
