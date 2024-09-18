@@ -70,6 +70,12 @@ Productivity Gains: By streamlining social media management, the team can respon
 
 D. Evaluation
 
+Cons:
+- Third-party data access: By granting Hootsuite access to these accounts, TechForge is effectively trusting a third-party service with sensitive information, such as login credentials, access to messages, and analytics.
+	Mitigation: Carefully review Hootsuite’s privacy policy and security practices. TechForge should ensure it grants the least amount of access necessary and enable two-factor authentication (2FA) for all connected social media accounts.
+
+
+
 Example Final Thoughts:
  • Does the benefit outweigh the risk?
 
