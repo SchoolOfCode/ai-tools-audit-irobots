@@ -8,13 +8,13 @@
  - n8n to combine the 2
 
 ## Evaluation of Using n8n for TechForge
-### A. Opportunity
+### A. Opportunity
 - Problem Solving: n8n can streamline workflows and automate tasks, reducing manual labor and errors.
 - Process Improvement: It can integrate various tools and services, allowing for more efficient data flow and decision-making.
 ### B. Risk
 - Learning Curve: Using n8n may require a learning curve for those unfamiliar with workflow automation tools.
 - Complexity: Complex workflows can become difficult to manage and maintain.
-### C. Tangible Benefits
+### C. Tangible Benefits
 - Cost Savings: Automating tasks can reduce labor costs and improve resource allocation.
 - Time Efficiency: Streamlining workflows can save time and increase productivity.
 - Data Integration: n8n can facilitate seamless data integration between different tools and services.
@@ -28,7 +28,7 @@ TechForge should pilot n8n for specific use cases to assess its effectiveness an
 
 
 ## Evaluation of Using n8n with Hugging Face Transformers and Google Cloud Natural Language API for TechForge
-## A. Opportunity
+### A. Opportunity
 - Enhanced NLP Capabilities: Combining these tools can provide a powerful and flexible solution for various NLP tasks.
 - Workflow Automation: n8n can automate the integration and execution of these tools, streamlining processes.
 ### B. Risk
